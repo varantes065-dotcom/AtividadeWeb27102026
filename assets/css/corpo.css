@@ -1,0 +1,26 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    width: 10rem;
+    background-color: #eee;
+    padding: .5rem;
+}
+
+section {
+    /* border: .2rem solid blue; */
+    display: flex;
+    flex: 1;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    padding: 1rem;
+    flex-wrap: wrap;
+    gap: .8rem;
+    justify-content: left;
+}

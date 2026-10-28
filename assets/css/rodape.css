@@ -1,0 +1,11 @@
+footer {
+    /* border: .2rem solid green; */
+    height: 4rem;
+    padding: .5rem;
+    background-color: #252323;
+    color: #eee;
+    /* display: flex; */
+    /* justify-content: center; alinhar horizontalmente */
+    /* align-items: center; */
+    /* align-content: center; */
+}
